@@ -1,0 +1,166 @@
+object Form1: TForm1
+  Left = 300
+  Height = 496
+  Top = 113
+  Width = 532
+  Caption = 'Multithreading'
+  ClientHeight = 496
+  ClientWidth = 532
+  OnShow = FormShow
+  LCLVersion = '2.2.6.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 152
+    Top = 0
+    Width = 532
+    Align = alTop
+    ClientHeight = 152
+    ClientWidth = 532
+    TabOrder = 0
+    object edX1: TEdit
+      Left = 24
+      Height = 23
+      Top = 24
+      Width = 56
+      TabOrder = 0
+      Text = '-100'
+    end
+    object Label1: TLabel
+      Left = 24
+      Height = 15
+      Top = 8
+      Width = 12
+      Caption = 'x1'
+      ParentColor = False
+    end
+    object edX2: TEdit
+      Left = 24
+      Height = 23
+      Top = 72
+      Width = 56
+      TabOrder = 1
+      Text = '100'
+    end
+    object Label2: TLabel
+      Left = 24
+      Height = 15
+      Top = 56
+      Width = 12
+      Caption = 'x2'
+      ParentColor = False
+    end
+    object Label3: TLabel
+      Left = 24
+      Height = 15
+      Top = 104
+      Width = 9
+      Caption = 'N'
+      ParentColor = False
+    end
+    object edN: TEdit
+      Left = 24
+      Height = 23
+      Top = 120
+      Width = 80
+      TabOrder = 2
+      Text = '1000000000'
+    end
+    object Button1: TButton
+      Left = 208
+      Height = 119
+      Top = 24
+      Width = 57
+      Caption = 'Calculate'
+      OnClick = Button1Click
+      TabOrder = 3
+    end
+    object Memo1: TMemo
+      Left = 272
+      Height = 150
+      Top = 1
+      Width = 259
+      Align = alRight
+      Anchors = [akTop, akLeft, akRight, akBottom]
+      Lines.Strings = (
+        'Memo1'
+      )
+      TabOrder = 4
+    end
+    object edA: TEdit
+      Left = 120
+      Height = 23
+      Top = 24
+      Width = 56
+      TabOrder = 5
+      Text = '10'
+    end
+    object Label4: TLabel
+      Left = 120
+      Height = 15
+      Top = 8
+      Width = 6
+      Caption = 'a'
+      ParentColor = False
+    end
+    object edB: TEdit
+      Left = 120
+      Height = 23
+      Top = 72
+      Width = 56
+      TabOrder = 6
+      Text = '5'
+    end
+    object Label5: TLabel
+      Left = 120
+      Height = 15
+      Top = 56
+      Width = 7
+      Caption = 'b'
+      ParentColor = False
+    end
+    object edC: TEdit
+      Left = 120
+      Height = 23
+      Top = 120
+      Width = 56
+      TabOrder = 7
+      Text = '-10'
+    end
+    object Label6: TLabel
+      Left = 120
+      Height = 15
+      Top = 104
+      Width = 6
+      Caption = 'c'
+      ParentColor = False
+    end
+  end
+  object Chart1: TChart
+    Left = 0
+    Height = 344
+    Top = 152
+    Width = 532
+    AxisList = <    
+      item
+        Marks.LabelBrush.Style = bsClear
+        Minors = <>
+        Title.LabelFont.Orientation = 900
+        Title.LabelBrush.Style = bsClear
+      end    
+      item
+        Alignment = calBottom
+        Marks.LabelBrush.Style = bsClear
+        Minors = <>
+        Title.LabelBrush.Style = bsClear
+      end>
+    Title.Text.Strings = (
+      'TAChart'
+    )
+    Align = alClient
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    Left = 496
+    Top = 8
+  end
+end

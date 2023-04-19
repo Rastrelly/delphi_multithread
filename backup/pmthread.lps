@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pmthread.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umthread.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="166"/>
+        <CursorPos X="13" Y="178"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\tachart\tagraph.pas"/>
+        <UnitName Value="TAGraph"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="130"/>
+        <CursorPos X="17" Y="142"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\tachart\tacustomseries.pas"/>
+        <UnitName Value="TACustomSeries"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="961"/>
+        <CursorPos Y="978"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="69" Column="3" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="84" Column="14" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="72" Column="20" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="75" Column="32" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="73" Column="41" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="75" Column="28" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="76" Column="5" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="111" Column="9" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="96" Column="27" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="73" Column="46" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="75"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="77" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="79" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="60" Column="23" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="144" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="64" Column="3" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="76" Column="3" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="141" Column="20" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="139" Column="16" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="170" Column="14" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="171" Column="33" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="164" Column="12" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="165" Column="12" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="164" Column="12" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="179" Column="41" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="174" Column="35" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="73" Column="31" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="178" Column="46" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="180" Column="38" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="umthread.pas"/>
+        <Caret Line="177" Column="37" TopLine="166"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
